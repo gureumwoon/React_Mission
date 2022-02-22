@@ -1,7 +1,7 @@
 # React_Mission
 
 <h3>1차 미션 스크린샷<h3>
-  - Basic
+  -Basic
   <table>
   <tr>
     <td align="center">
