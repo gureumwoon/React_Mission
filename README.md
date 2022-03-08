@@ -54,4 +54,13 @@ Basic
        />
   </div>
   
+2. 수정하기
+   <div align="center">
+      <img
+         src="ttps://user-images.githubusercontent.com/83581867/157254694-337f0bbe-1b36-46e9-8e07-a4179b19cf4a.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>  
+  
 
