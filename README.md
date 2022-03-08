@@ -1,6 +1,7 @@
 # React_Mission
 
 <h3>1차 미션 스크린샷<h3>
+   <hr>
    Basic
   <table>
   <tr>
@@ -38,3 +39,5 @@
         />
   </tr>
 </table>
+   
+<h3>2차 미션 스크린샷<h3>
