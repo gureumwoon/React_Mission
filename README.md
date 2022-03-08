@@ -1,8 +1,9 @@
 # React_Mission
 
 <h3>1차 미션 스크린샷<h3>
-   <hr>
+  
    Basic
+   
   <table>
   <tr>
     <td align="center">
@@ -41,3 +42,8 @@
 </table>
    
 <h3>2차 미션 스크린샷<h3>
+   
+Basic
+   
+1. 모두 지우기
+
