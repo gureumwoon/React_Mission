@@ -73,7 +73,7 @@ challenge
   <tr>
     <td align="center">
         <img
-          src="https://user-images.githubusercontent.com/83581867/155149190-5deabded-982f-44f1-918e-34307fbf6f31.png"
+          src="https://user-images.githubusercontent.com/83581867/157255822-d8662b1d-60ba-4e13-9b9f-2842c6834a81.png"
           width="300px;"
           alt=""
         />
