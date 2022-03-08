@@ -80,7 +80,7 @@ challenge
     </td>
      <td align="center">
         <img
-          src="https://user-images.githubusercontent.com/83581867/155149418-958e3885-6e52-4c05-84b6-69290401353b.png"
+          src="https://user-images.githubusercontent.com/83581867/157255850-745bd741-e924-4a88-ac8d-5cdef7e75e32.png"
           width="300px;"
           alt=""
         />
