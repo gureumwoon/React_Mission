@@ -60,7 +60,7 @@ Basic
   
    <div align="center">
       <img
-         src="https://user-images.githubusercontent.com/83581867/157254088-a1e2522e-3e0d-4283-a8a7-552a84ea8e56.gif"
+         src="https://user-images.githubusercontent.com/83581867/157254694-337f0bbe-1b36-46e9-8e07-a4179b19cf4a.gif"
          width="500px;"
          alt=""
        />
