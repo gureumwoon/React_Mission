@@ -70,7 +70,7 @@ challenge
 - localstorage 사용하기
   
 <table>
-  <tr>
+  <tr align="center">
     <td align="center">
         <img
           src="https://user-images.githubusercontent.com/83581867/157255822-d8662b1d-60ba-4e13-9b9f-2842c6834a81.png"
