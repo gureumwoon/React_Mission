@@ -46,4 +46,12 @@
 Basic
    
 1. 모두 지우기
+  <div align="center">
+      <img
+         src="https://user-images.githubusercontent.com/83581867/157254088-a1e2522e-3e0d-4283-a8a7-552a84ea8e56.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>
+  
 
